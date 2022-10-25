@@ -1,0 +1,13 @@
+{
+  "name": "bitebank",
+  "version": "1.0.0",
+  "description": "Bitebank - serviços financeiros",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LucasT",
+  "license": "ISC",
+  "type": "module"
+  
+}
